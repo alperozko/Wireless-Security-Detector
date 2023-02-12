@@ -14,12 +14,12 @@
 4-Power layers(POWER AND GROUND) of pcb and back side of pcb
 ![2-power layer](https://user-images.githubusercontent.com/100144512/218326929-f270c032-27b2-43db-9c40-99bf667f8a32.png) 
 
-POWER LAYER
+a-POWER LAYER
 
 ![ground layer](https://user-images.githubusercontent.com/100144512/218326933-318a1646-249b-4b8b-9ac1-1f1c28706304.png)
 
-GROUND LAYER
+b-GROUND LAYER
 
 ![bottom layer](https://user-images.githubusercontent.com/100144512/218326940-30704f7a-97e2-4da8-ace7-086ceca0d85b.png)
 
-BOTTOM LAYER
+c-BOTTOM LAYER
