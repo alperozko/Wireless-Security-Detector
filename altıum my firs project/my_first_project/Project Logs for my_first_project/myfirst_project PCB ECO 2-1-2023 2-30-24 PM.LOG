@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=SensorBoard Member=D1
+Removed Member From Class: ClassName=Microcontroller Member=D7
+Removed Member From Class: ClassName=POWER_Manegement Member=D7
+Removed Member From Class: ClassName=Microcontroller Member=R24
+Change Net Name : Old Net Name=NetR17_1 New Net Name=MCU_N
+Change Net Name : Old Net Name=NetR18_1 New Net Name=MCU_P
+Added Differential Pair: Name=MCU
+Added Member To Class: ClassName=POWER_Manegement Member=Component D1 1N4148WS
+Added Member To Class: ClassName=POWER_Manegement Member=Component D2 1N4148WS
+Added Member To Class: ClassName=POWER_Manegement Member=Component D4 1SMB5919BT3G
+Added Member To Class: ClassName=Microcontroller Member=Component D6 1N4148WS
+Added Member To Class: ClassName=SensorBoard Member=Component D8 LTST-C171GKT
+Added Member To Class: ClassName=Microcontroller Member=Component R15 RES_4.7KOHM 0603
+Added Member To Class: ClassName=Microcontroller Member=Component R17 RES 15 OHM 0603
+Added Member To Class: ClassName=Microcontroller Member=Component R19 RES_100OHM_0603
+Added Member To Class: ClassName=Microcontroller Member=Component R21 RES_100OHM_0603
+Added Member To Class: ClassName=Microcontroller Member=Component R23 RES_100OHM_0603
+Added Member To Class: ClassName=SensorBoard Member=Component R25 RC0603JR-07220KL
+Added Member To Class: ClassName=SensorBoard Member=Component R27 RES_1KOHM
+Added Member To Class: ClassName=SensorBoard Member=Component R28 RC0402JR-0710KL
+Added Member To Class: ClassName=SensorBoard Member=Component R29 RES 0OHM 0603
+Added Member To Class: ClassName=SensorBoard Member=Component R31 RES 10KOHM%1 0603
+Added Member To Class: ClassName=SensorBoard Member=Component R33 RES_100OHM_0603
+Added Member To Class: ClassName=SensorBoard Member=Component R35 RES_1KOHM
+Added Member To Class: ClassName=SensorBoard Member=Component R36 RC0603JR-07220KL

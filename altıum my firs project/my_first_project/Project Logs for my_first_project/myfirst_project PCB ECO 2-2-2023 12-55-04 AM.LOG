@@ -1,0 +1,2 @@
+Change Component Library : Designator=U3 Old Library=first_project_library.SchLib New Library=first_project_library.IntLib
+Added Member To Class: ClassName=Microcontroller Member=Component U3 ESP32-WROOM-32E-N4

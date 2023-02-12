@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=AC_LÝNE_1 Pin=J2-1
+Removed Pin From Net: NetName=AC_LÝNE_2 Pin=J2-2
+Change Component Footprint: Designator=C1 Old Footprint= New Footprint=CAP_RADIAL_D10_P5
+Change Component Footprint: Designator=C2 Old Footprint= New Footprint=CAP_RADIAL_D10_P5
+Change Component Footprint: Designator=C18 Old Footprint= New Footprint=CAP_RADIAL_D10_P5
+Change Component Designator: OldDesignator=  NewDesignator=T1
+Added Pin To Net: NetName=AC_LÝNE_2 Pin=J2-1
+Added Pin To Net: NetName=AC_LÝNE_1 Pin=J2-2
+Added Member To Class: ClassName=POWER_Manegement Member=Component C1 ESH477M050AH4AA
+Added Room: Name=Microcontroller
+Added Room: Name=POWER_Manegement

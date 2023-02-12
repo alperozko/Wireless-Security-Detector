@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LÝGHT1_VCC Pin=J5-1
+Removed Pin From Net: NetName=LÝGHT1_GND Pin=J5-2
+Added Pin To Net: NetName=LÝGHT1_GND Pin=J5-1
+Added Pin To Net: NetName=LÝGHT1_VCC Pin=J5-2

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=5VDC Pin=BZ1-1
+Removed Pin From Net: NetName=5VDC Pin=BZ1-2
+Removed Pin From Net: NetName=5VDC Pin=C2-2
+Removed Pin From Net: NetName=5VDC Pin=C4-2
+Removed Pin From Net: NetName=5VDC Pin=C14-1
+Removed Pin From Net: NetName=5VDC Pin=D3-1
+Removed Pin From Net: NetName=5VDC Pin=J6-1
+Removed Pin From Net: NetName=5VDC Pin=J6-1
+Removed Pin From Net: NetName=5VDC Pin=Q4-3
+Removed Pin From Net: NetName=5VDC Pin=U2-1
+Added Pin To Net: NetName=5VDC Pin=Q3-2
+Change Net Name : Old Net Name=5VDC New Net Name=GND
+Added Pin To Net: NetName=5VDC Pin=BZ1-1
+Added Pin To Net: NetName=5VDC Pin=BZ1-2
+Added Pin To Net: NetName=5VDC Pin=C2-2
+Added Pin To Net: NetName=5VDC Pin=C4-2
+Added Pin To Net: NetName=5VDC Pin=C14-1
+Added Pin To Net: NetName=5VDC Pin=C32-1
+Added Pin To Net: NetName=5VDC Pin=D3-1
+Added Pin To Net: NetName=5VDC Pin=J6-1
+Added Pin To Net: NetName=5VDC Pin=J6-1
+Added Pin To Net: NetName=5VDC Pin=Q4-3
+Added Pin To Net: NetName=5VDC Pin=U2-1
+Added Net: Name=5VDC
+Added Room: Name=Microcontroller
+Added Room: Name=POWER_Manegement
